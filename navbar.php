@@ -36,6 +36,9 @@
                     <li>
                         <a href="./contatti.php">Contatti</a>
                     </li>
+                    <li>
+                        <a href="./contatti.php">Prova commit</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
